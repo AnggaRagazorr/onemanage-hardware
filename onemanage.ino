@@ -12,7 +12,7 @@
 // ===================== SETTING APP =====================
 #define QR_VERSION           6
 #define ACTIVE_SECONDS       300
-#define AREA_NAME            "Area Smoking"
+#define AREA_NAME            "Area yang di inginkan"
 #define LONG_PRESS_MS        5000
 #define LONG_PRESS_VISUAL_MS 500
 
