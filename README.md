@@ -61,4 +61,4 @@ Keterangan:
 * Library `WiFi`
 * Library `HTTPClient`
 
-
+## Untuk menggunakan membuat qr code gunakan library qrcode.zip
